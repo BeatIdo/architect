@@ -203,10 +203,12 @@ form {
   margin-left: -0.9em;
   color: #3dcd58;
   /*content: "/";*/
-  /*content: "☸";*/
-  /*♦	9830*/
-  /*⚪	9898	26AA*/
-  content: "/26AA";
+  /*♦	9830	0x2666*/
+  /*☸	9784	0x2638*/
+  /*⚪	9898	0x26AA*/
+  /*⚫	9899	0x26AB*/
+  /*Black Hexagon 0x2b22*/
+  content: "/2B22";
 }
 
 #main-content h2 {
