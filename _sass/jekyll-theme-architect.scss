@@ -212,7 +212,8 @@ form {
   /*⚫	9899	0x26AB*/
   /*⬢ Black Hexagon 0x2b22*/
   /*⬡ White Hexagon 0x2b21*/
-  content: "\002b21";
+  /*content: "\002b21";*/
+  content: "⬡";
 }
 
 #main-content h2 {
@@ -227,7 +228,7 @@ form {
 #main-content h2:before {
   padding-right: 0.3em;
   margin-left: -1.5em;
-  content: "⬡⬡";
+  content: "⬢⬢";
   color: #3dcd58;
 }
 
@@ -262,7 +263,7 @@ form {
 h4:before {
   padding-right: 0.3em;
   margin-left: -2.8em;
-  content: "⬡⬡⬡⬡";
+  content: "⬢⬢⬢⬢";
   color: #3dcd58;
 }
 
@@ -292,7 +293,7 @@ h5:before {
 h6:before {
   padding-right: 0.3em;
   margin-left: -3.7em;
-  content: "⬡⬡⬡⬡⬡⬡";
+  content: "⬢⬢⬢⬢⬢⬢";
   color: #3dcd58;
 }
 
